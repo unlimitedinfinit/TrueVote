@@ -19,3 +19,75 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.bak
+*.cache
+*.db
+*.dump
+*.DS_Store
+*.dat
+*.tmp
+*.jar
+*.bin
+*.iso
+
+# Dart VM
+.dart_tool/
+
+# Flutter/Dart/Pub
+**/doc/api/
+.dart_tool
+.flutter-plugins
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Web related
+*.js
+*.js.map
+*.js_
+*.sass
+*.scss
+*.css
+*.css.map
+
+# Android/Ios related
+**/android/app/*/build/
+**/build/
+*.iml
+*.hprof
+*.ap_
+*.mapping
+/local.properties
+*.jks
+*.keystore
+
+# iOS/Xcode related
+**/ios/.generated/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/
+**/ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+**/ios/Runner.xcodeproj/xcshareddata/
+**/ios/Runner.xcodeproj/xcuserdata/
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.xcuserstate
+*.xcworkspace
+.derived_data/
+.idea/
