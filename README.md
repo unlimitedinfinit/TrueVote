@@ -1,6 +1,8 @@
 # TrueVote
 Are you tired of the political polarization and the propaganda that is dominating the media and the internet? Do you want to make a positive impact on the world and help people to make informed and rational decisions about their future and their society? Join me in creating a revolutionary platform that uses decentralized identity and verifiable credentials to empower the users to discover their values and their interests, and to connect with like-minded individuals and organizations. Our platform will provide a trusted and transparent environment for the users to learn, to discuss, and to take action, without being manipulated or censored by the powers that be. Let's make a difference together and create a better future for everyone.
 
+To see relevant files please go to the Lib folder
+
 Develop a platform to provide users with neutral, accurate, and credible information on political candidates, tailored to their values and priorities. Deploy the platform globally, making it available through a web-based application in multiple languages. Ensure transparency and accountability by using blockchain technology and engaging with users to build trust. Incorporate public data on government budgets and expenditures to showcase the allocation and utilization of funds. The platform will help users make informed decisions, avoid media manipulation, and foster political engagement.
 
 Checklist:
