@@ -1,4 +1,10 @@
 # TrueVote
+Uploaded a YouTube video to go over the core concepts.
+
+https://youtu.be/_0-6g8-lFY8
+and can be found on my main channel 
+https://www.youtube.com/@CodeandCourage
+
 Are you tired of the political polarization and the propaganda that is dominating the media and the internet? Do you want to make a positive impact on the world and help people to make informed and rational decisions about their future and their society? Join me in creating a revolutionary platform that uses decentralized identity and verifiable credentials to empower the users to discover their values and their interests, and to connect with like-minded individuals and organizations. Our platform will provide a trusted and transparent environment for the users to learn, to discuss, and to take action, without being manipulated or censored by the powers that be. Let's make a difference together and create a better future for everyone.
 
 To see relevant files please go to the Lib folder
