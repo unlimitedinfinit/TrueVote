@@ -1,4 +1,3 @@
-Certainly, based on the new features and focus you've mentioned, here's an updated README file:
 
 ---
 
@@ -49,7 +48,3 @@ Tired of political polarization, misinformation, and lack of transparency in gov
 ## Step-by-Step Guide
 
 Here's a breakdown of what to do next for each feature and how to implement it, starting with the registration process and ending with the community forum. For a more detailed description, please head to the [Lib folder](Link_to_Lib_Folder).
-
----
-
-Feel free to modify and adapt the text as needed! This should provide a comprehensive overview of the TrueVote platform and its enhanced features.
