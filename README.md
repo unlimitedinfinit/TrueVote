@@ -1,63 +1,55 @@
-# TrueVote
-Uploaded a YouTube video to go over the core concepts.
+Certainly, based on the new features and focus you've mentioned, here's an updated README file:
 
-https://youtu.be/_0-6g8-lFY8
-and can be found on my main channel 
-https://www.youtube.com/@CodeandCourage
+---
 
-Are you tired of the political polarization and the propaganda that is dominating the media and the internet? Do you want to make a positive impact on the world and help people to make informed and rational decisions about their future and their society? Join me in creating a revolutionary platform that uses decentralized identity and verifiable credentials to empower the users to discover their values and their interests, and to connect with like-minded individuals and organizations. Our platform will provide a trusted and transparent environment for the users to learn, to discuss, and to take action, without being manipulated or censored by the powers that be. Let's make a difference together and create a better future for everyone.
+# TrueVote Platform
 
-To see relevant files please go to the Lib folder
+**Check out our introductory YouTube video:** [Core Concepts Explained](https://youtu.be/_0-6g8-lFY8)  
+**Follow us on YouTube:** [CodeandCourage Channel](https://www.youtube.com/@CodeandCourage)
 
-Develop a platform to provide users with neutral, accurate, and credible information on political candidates, tailored to their values and priorities. Deploy the platform globally, making it available through a web-based application in multiple languages. Ensure transparency and accountability by using blockchain technology and engaging with users to build trust. Incorporate public data on government budgets and expenditures to showcase the allocation and utilization of funds. The platform will help users make informed decisions, avoid media manipulation, and foster political engagement.
+## Introduction
 
-Checklist:
+Tired of political polarization, misinformation, and lack of transparency in governance? Join us in building TrueVote, a revolutionary platform aiming to restore control and transparency to citizens. We use decentralized identity and verifiable credentials to empower users to discover their values, connect with like-minded individuals, and lobby for real change. Our platform provides a trusted, transparent environment for meaningful action and dialogue.
 
-    Gather and verify candidate information from multiple sources.
-    Develop fact-checking algorithms using natural language processing and machine learning techniques.
-    Provide transparent attribution for information sources and verification methods.
-    Create a web-based application accessible on various devices and in multiple languages.
-    Design a scalable and resilient platform using cloud-based infrastructure.
-    Implement blockchain technology for transparency and security.
-    Engage with users through social media and online platforms to collect feedback.
-    Use public data APIs and data sets to retrieve and display budget/expenditure data.
-    Create personalized profiles and surveys/quizzes to tailor information and recommendations for users.
-    Implement a news feed/timeline to provide users with the latest news and updates.
-    Develop a fact-checking tool to verify information and report misleading content.
-    Establish a community forum or discussion board for users to exchange ideas and perspectives.
-    Test and debug the platform to ensure correct and expected functioning.
-    Deploy the platform on a web server, making it available to users through a web browser or mobile application.
+## Core Features
 
+- **Neutral, Accurate Information:** Providing data on political candidates, tailored to individual values and priorities.
+- **Global Deployment:** Web-based application accessible in multiple languages.
+- **Blockchain Transparency:** Complete transparency and accountability in governance and decision-making.
+- **Public Finance Tracking:** Real-time tracking of government budgets and expenditures.
+- **Community Lobbying:** Create, join, and track lobbying groups aiming for political change.
+- **User-Generated Moderation:** Advanced algorithms and user input to control spam, bots, and irrelevant content.
+  
+## Checklist for Development
 
-PAGES NEEDED in app
-    Welcome Page
-    Registration Page
-    Login Page
-    User Profile Page
-    Survey/Quiz Page
-    Candidate and Issue Information Page
-    Budget and Expenditure Data Page
-    News Feed/Timeline Page
-    Fact-checking Tool Page
-    Community Forum/Discussion Board Page
+1. Gather and verify candidate information from multiple sources.
+2. Develop community lobbying features.
+3. Implement user-generated content moderation algorithms.
+4. Design a web-based application accessible globally in multiple languages.
+5. Create personalized profiles to tailor information and recommendations for users.
+6. Develop a fact-checking tool to verify information.
+7. Establish a community forum for open and meaningful discussions.
+8. Test and debug for a seamless user experience.
+9. Deploy on a secure and scalable cloud-based infrastructure.
 
+## App Pages Needed
 
-Here's a step-by-step guide on what to do next:
+- Welcome Page
+- Registration Page
+- Login Page
+- User Profile Page
+- Survey/Quiz Page
+- Candidate and Issue Information Page
+- Budget and Expenditure Data Page
+- News Feed/Timeline Page
+- Fact-checking Tool Page
+- Community Forum/Discussion Board Page
+- Lobby Creation and Monitoring Page
 
-    Registration Page: Implement the registration process using a backend service (such as Firebase) to store user information securely. You'll need to create fields for user input (e.g., email, password, confirm password) and a button to submit the registration form. Upon successful registration, navigate the user to the Login page.
+## Step-by-Step Guide
 
-    Login Page: Implement the login process using the same backend service used for registration. Create fields for user input (email and password) and a button to submit the login form. Upon successful login, navigate the user to the User Profile page or the Survey/Quiz page if the user hasn't completed it yet.
+Here's a breakdown of what to do next for each feature and how to implement it, starting with the registration process and ending with the community forum. For a more detailed description, please head to the [Lib folder](Link_to_Lib_Folder).
 
-    User Profile Page: Display user information and provide options to edit the profile. You can also include a button to navigate to the Survey/Quiz page or the News Feed/Timeline page.
+---
 
-    Survey/Quiz Page: Implement the survey or quiz with questions related to the user's values and political beliefs. Once the user submits their responses, analyze the answers and save the results to the backend service to generate personalized recommendations.
-
-    Candidate and Issue Information Page: Display relevant information about political candidates and issues based on the user's quiz results. Provide options for the user to learn more about each candidate or issue.
-
-    Budget and Expenditure Data Page: Integrate public data APIs to display budget and expenditure data. Use charts or graphs to visualize the data and make it easy for users to understand.
-
-    News Feed/Timeline Page: Create a news feed displaying the latest news and updates related to the user's interests, political candidates, and issues. Implement filters to help users sort the content according to their preferences.
-
-    Fact-checking Tool Page: Implement a fact-checking tool that allows users to verify the accuracy of information from various sources. You can use APIs from fact-checking organizations or develop your own algorithm to check the credibility of news articles.
-
-    Community Forum/Discussion Board Page: Implement a forum where users can discuss and share their opinions on political candidates and issues. You can use a backend service to store and manage user-generated content.
+Feel free to modify and adapt the text as needed! This should provide a comprehensive overview of the TrueVote platform and its enhanced features.
